@@ -1,10 +1,10 @@
 <scheme name="Philipe's darkness" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-08-15T21:08:09</property>
+    <property name="created">2018-09-13T14:59:12</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2018-08-15T21:08:27</property>
+    <property name="modified">2018-09-13T14:59:20</property>
     <property name="originalScheme">Philipe's darkness</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -56,7 +56,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="50b458" />
+        <option name="FOREGROUND" value="7eb478" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -85,8 +85,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="7876e6" />
-        <option name="BACKGROUND" value="2c2a2b" />
+        <option name="FOREGROUND" value="9490e6" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">

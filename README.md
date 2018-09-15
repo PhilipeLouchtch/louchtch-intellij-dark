@@ -2,21 +2,23 @@
 
 ## Short intro
 
-This theme was created to be used together with the dark IntelliJ application theme. It has a strong *semantic highlighting* feel. Interfaces are blue-ish, classes green, semantic highlighting of variables uses strong colors instead of subdued default ones.
+This theme was created to be used together with the factory, dark IntelliJ UI theme. It has a strong *semantic highlighting* feel. Interfaces are blue-ish, classes green, semantic highlighting of variables uses strong colors instead of very subdued default ones.
 
 ## Main goals
 
-- Easier on the eyes when coding in darker environments
-- Not too black
-- Look good with the default dark UI theme
-- De-emphasize certain keywords (new, control flow, loops and access modifiers are just not that interesting)
-- Emphasize the more interesting parts (operators and variables, for example)
+- Easier on the eyes when coding in dark environments
+- Not too dark, must be usable in when sunny (but not direct sunlight on a laptop screen)
+- Looks good with the default IntelliJ dark UI theme
+- De-emphasize keywords (new, control flow, loops and access modifiers are not interesting _enough_)
+- Emphasize the important parts (operators and variables, for example)*
+- Be sane, no mental noise that distracts from the task at hand (=work in progress)*
+
+*) you might wonder: why the strong colors for Classes and Interfaces? Answer: I want to highlight for myself when I'm not "thinking in interfaces". Because I'm experimenting with [Yegor Bugayenko](https://www.yegor256.com/books.html)'s suggestions. 
 
 ## Issues
 
-- The TODO's in comments probably need to get a more subdued color.
-- Errors might be highlighted too strong and makes the caret not visible enough, don't know how to fix the caret there without changing the highlight color itself
-- Interfaces and Classes colors might be a little bit too "busy"-looking. Still evaluating, but I had a personal reason for doing this.
-- Not happy with squiggly line warnings, but that's more of an issue with what kinds of warning I like to see. Some of them are sometimes useful and other times annoying. Maybe a bit more subdued color will be used in the future...
+- The TODO's in comments probably need to get a more subdued color. Or just a different one, that still stands out, strongly. Need to have some extra motivation to get those TODO's done or reconsidered.
+- Interfaces and Classes colors might be a little bit too "busy"-looking. Already toned the color down a bit, but they are still quite dominant.
+- Not happy with squiggly line warnings, but that's more of an issue with what kinds of warning I like to see. From time to time, some of them are useful. Can't expect the IDE to read my mind. Maybe a bit more subdued color will be used in the future...
 
 ![Screenshot of theme (v1)](IntelliJ-theme.PNG)

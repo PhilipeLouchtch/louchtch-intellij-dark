@@ -1,10 +1,10 @@
 <scheme name="Philipe's darkness" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-09-13T14:59:12</property>
+    <property name="created">2018-09-15T13:02:06</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.2.1.0.0</property>
-    <property name="modified">2018-09-13T14:59:20</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-09-15T13:02:12</property>
     <property name="originalScheme">Philipe's darkness</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -46,6 +46,13 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="585858" />
+      </value>
+    </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="101021" />
+        <option name="BACKGROUND" value="c79050" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">

@@ -4,6 +4,11 @@
 
 This theme was created to be used together with the factory, dark IntelliJ UI theme. It has a strong *semantic highlighting* feel. Interfaces are blue-ish, classes green, semantic highlighting of variables uses strong colors instead of very subdued default ones.
 
+## Languages supported
+- Java
+- Gradle (it looks Java-like in the buildscripts I have opened using this theme)
+- Others: no guarantees, before tweaking, Gradle scripts did not look like I configured Java colors. And I stayed in the general settings as much as possible. Any contributions welcome, but I'm not getting my hopes up. So it all comes down to which languages I write or read in IntelliJ and how _often_.
+
 ## Main goals
 
 - Easier on the eyes when coding in dark environments

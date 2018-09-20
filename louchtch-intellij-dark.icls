@@ -1,10 +1,10 @@
 <scheme name="Philipe's darkness" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-09-16T23:57:28</property>
+    <property name="created">2018-09-20T13:45:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-16T23:57:34</property>
+    <property name="modified">2018-09-20T13:45:39</property>
     <property name="originalScheme">Philipe's darkness</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -29,6 +29,8 @@
     <option name="METHOD_SEPARATORS_COLOR" value="3c3f41" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="9c9c9c" />
+    <option name="SELECTED_TEARLINE_COLOR" value="d0d0d0" />
+    <option name="TEARLINE_COLOR" value="777777" />
     <option name="VISUAL_INDENT_GUIDE" value="3c3f41" />
   </colors>
   <attributes>

@@ -105,8 +105,7 @@
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e6e5cc" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">

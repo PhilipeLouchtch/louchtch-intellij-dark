@@ -1,10 +1,10 @@
 <scheme name="Philipe's darkness" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-09-20T13:45:33</property>
+    <property name="created">2018-10-22T12:23:24</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-09-20T13:45:39</property>
+    <property name="ideVersion">2018.2.4.0.0</property>
+    <property name="modified">2018-10-22T12:23:32</property>
     <property name="originalScheme">Philipe's darkness</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -21,17 +21,21 @@
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="68de67" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="3d2f2e" />
+    <option name="DELETED_LINES_COLOR" value="b80c0c" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="INDENT_GUIDE" value="1f1f1f" />
     <option name="LINE_NUMBERS_COLOR" value="7c8184" />
     <option name="METHOD_SEPARATORS_COLOR" value="3c3f41" />
+    <option name="MODIFIED_LINES_COLOR" value="ea9ee2" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="9c9c9c" />
     <option name="SELECTED_TEARLINE_COLOR" value="d0d0d0" />
     <option name="TEARLINE_COLOR" value="777777" />
     <option name="VISUAL_INDENT_GUIDE" value="3c3f41" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="edadd3" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -165,6 +169,30 @@
       <value>
         <option name="FOREGROUND" value="c3c3c3" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="e47fc8" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8bd" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="812b2a" />
+        <option name="ERROR_STRIPE_COLOR" value="c8c8c8" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="f0c0e" />
+        <option name="ERROR_STRIPE_COLOR" value="aadeaa" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="2f302e" />
+        <option name="ERROR_STRIPE_COLOR" value="b8cbf5" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">

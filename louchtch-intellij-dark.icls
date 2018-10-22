@@ -67,6 +67,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="929598" />
@@ -92,6 +93,12 @@
     <option name="DEFAULT_DOT">
       <value>
         <option name="FOREGROUND" value="aeb4b6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="7d7dff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -278,6 +285,11 @@
       </value>
     </option>
     <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="ffb734" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="343233" />

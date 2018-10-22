@@ -26,4 +26,4 @@ This theme was created to be used together with the dracula IntelliJ UI theme. I
 - Interface and Class colors might clash with the semantic variable colors. 
 - Not happy with squiggly line warning colors, it's a trade-off. You'll have to dive into the inspections and get the settings right for yourself.
 
-![Screenshot of theme (v1)](IntelliJ-theme.PNG)
+![Screenshot of theme](IntelliJ-theme.PNG)

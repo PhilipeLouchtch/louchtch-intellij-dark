@@ -27,4 +27,4 @@ This theme was created to be used together with the dracula IntelliJ UI theme. I
 - Not happy with squiggly line warning colors, it's a trade-off. You'll have to dive into the inspections and get the settings right for yourself.
 
 ![Screenshot of theme](IntelliJ-theme.PNG)
-![Diff colors](Diff.PNG)
+![Diff colors](diff.PNG)
